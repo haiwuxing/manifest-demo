@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<remote name="LearnRepo" fetch="https://github.com/haiwuxing/" />
+<project path="project_1.git" name="project_1" />
+<project path="project_2.git" name="project_2" />
+</manifest>
