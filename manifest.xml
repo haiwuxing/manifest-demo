@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-  <remote name="origin" fetch="https://github.com/" />
-  <default revision="master" remote="origin" />
-  <project path="project_1" name="project_1.git" remote="origin" />
-  <project path="project_2" name="project_2.git" remote="origin" />
-</manifest>
+ <manifest>
+
+ <remote fetch="https://github.com/iayanpahwa/" name="EazyExit" />
+
+     <project name="FastLED.git" path="lib/FastLED" remote="EazyExit" revision="c1ab8fa86f6d6ecbf40ab7f28b36116a3c931916" />
+     <project name="pubsubclient.git" path="lib/PubSubClient" remote="EazyExit" revision="dddfffbe0c497073d960f3b9f83c8400dc8cad6d" />
+
+ </manifest>
