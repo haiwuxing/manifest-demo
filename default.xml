@@ -3,7 +3,7 @@
 
  <remote fetch="https://github.com/haiwuxing/" name="EazyExit" />
 
-     <project name="project_1.git" path="project_1" remote="EazyExit"/>
-     <project name="project_2.git" path="project_2" remote="EazyExit" />
+     <project name="project_1.git" path="project_1" remote="EazyExit" reversion="0b81335117ef348779b4ccff7d4efc50e048f4f1" />
+     <project name="project_2.git" path="project_2" remote="EazyExit" reversion="1c7db2a047b1b6341ab914ee9111bb05dd5de24d" />
 
  </manifest>
